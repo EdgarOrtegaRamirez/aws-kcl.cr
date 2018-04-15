@@ -1,0 +1,5 @@
+
+ {"action":"shutdown","reason":"TERMINATE"} 
+ 
+ {"action": "initialize", "shardId": "shardId-000001"} 
+

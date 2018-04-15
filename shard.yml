@@ -1,0 +1,9 @@
+name: aws-kcl
+version: 0.1.0
+
+authors:
+  - Edgar Ortega <edgarortegaramirez@gmail.com>
+
+crystal: 0.24.2
+
+license: MIT
